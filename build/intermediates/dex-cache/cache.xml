@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saurav\.android\build-cache\43c4ae2d2c0c568a9fa9ecd994b02963dcfd28d2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\Saurav\AndroidStudioProjects\Scarne&apos;sDice\app\build\intermediates\pre-dexed\debug\classes_963a43ee17001e1a6bf0a7137d84b486297a83da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saurav\.android\build-cache\e50a49cb17ffcaca3f222d81ecfe2f09628c5d79\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\Saurav\AndroidStudioProjects\Scarne&apos;sDice\app\build\intermediates\pre-dexed\debug\classes_aabc5c070b44d6ca54632535906378ee1546bde9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saurav\.android\build-cache\67bac99d5adf2aac1f1a34e88f508e85391f24a8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\Saurav\AndroidStudioProjects\Scarne&apos;sDice\app\build\intermediates\pre-dexed\debug\classes_1f44db729b6dc59f58dfa430ddc5bc7b621ae65f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saurav\.android\build-cache\338d02ec061feb24abe8e2e84b4e476a027f1c6c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\Saurav\AndroidStudioProjects\Scarne&apos;sDice\app\build\intermediates\pre-dexed\debug\classes_2093c77b57f6f255f5deb9c42a0f126ae0c7f96b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saurav\.android\build-cache\d17b4e3c08316cf15e2d8d22b72a3db3ed628004\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\Saurav\AndroidStudioProjects\Scarne&apos;sDice\app\build\intermediates\pre-dexed\debug\classes_670e873dfc42700ce28cd9fc89f881371fa7ec72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saurav\.android\build-cache\0249bb88b76fcca4e9edf89d03f3d0de84aaf14a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\Saurav\AndroidStudioProjects\Scarne&apos;sDice\app\build\intermediates\pre-dexed\debug\classes_307beacea3b1752e11d10c21aa58c9fe4545d46c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saurav\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\Saurav\AndroidStudioProjects\Scarne&apos;sDice\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_c1438975a93c41270bf3bd32b0f9e31be6420c48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saurav\.android\build-cache\1db11e32018fd16994aae3a7e98c05b8650c7b19\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Saurav\AndroidStudioProjects\Scarne&apos;sDice\app\build\intermediates\pre-dexed\debug\classes_ec7623155c1f2a59dbc3c39c168946aaf28c9dcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saurav\.android\build-cache\15f783a53879eb698cae2510c02de20a846a65ef\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\Saurav\AndroidStudioProjects\Scarne&apos;sDice\app\build\intermediates\pre-dexed\debug\classes_36d2a3d7dc63d7fec078c3ae3bb789fadf09005f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saurav\.android\build-cache\5491b8abbd31b02b4b07723d5de7c45cdb919321\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\Saurav\AndroidStudioProjects\Scarne&apos;sDice\app\build\intermediates\pre-dexed\debug\classes_a1031c8e5104b1160ff144c7f7cb80f0d0d19422.jar" />
+    </item>
+
+</items>
